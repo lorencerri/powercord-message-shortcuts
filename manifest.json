@@ -1,7 +1,7 @@
 {
-    "name": "Example Plugin",
+    "name": "powercord-message-shortcuts",
     "version": "1.0.0",
-    "description": "A simple plugin template.",
+    "description": "Shortcuts within messages",
     "author": "TrueXPixels",
     "license": "MIT"
 }
