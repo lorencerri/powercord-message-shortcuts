@@ -1,10 +1,10 @@
-# powercord-plugin-template
+# powercord-message-shortcuts
 
-Personal powercord plugin template, feel free to use this, although keep in my I don't really know what I'm doing.
+**In Development**
 
-| Preview                                 | Settings                            |
-| --------------------------------------- | ----------------------------------- |
-| ![](https://i.plexidev.org/RmG67u3.gif) | ![](https://i.plexidev.org/FmULjPO) |
+| Preview | Settings |
+| ------- | -------- |
+| Soon.   | Soon.    |
 
 ---
 
